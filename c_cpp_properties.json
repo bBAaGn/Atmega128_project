@@ -1,0 +1,12 @@
+{
+  "configurations": [
+    {
+      "name": "AVR",
+      "compilerPath": "avr-gcc",
+      "cStandard": "gnu99",
+      "defines": ["__AVR_ATmega128__", "F_CPU=16000000UL"],
+      "intelliSenseMode": "gcc-x64"
+    }
+  ],
+  "version": 4
+}
